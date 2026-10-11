@@ -1,0 +1,912 @@
+ [
+  {
+    "id": "tt0068646",
+    "name": "The Godfather",
+    "year": "1972"
+  },
+  {
+    "id": "tt15017118",
+    "name": "Dark Winds",
+    "year": "2022– "
+  },
+  {
+    "id": "tt5574490",
+    "name": "Animal Kingdom",
+    "year": "2016–2022"
+  },
+  {
+    "id": "tt1998372",
+    "name": "Under the Banner of Heaven",
+    "year": "2022"
+  },
+  {
+    "id": "tt0141842",
+    "name": "The Sopranos",
+    "year": "1999–2007"
+  },
+  {
+    "id": "tt0452046",
+    "name": "Criminal Minds",
+    "year": "2005–2020"
+  },
+  {
+    "id": "tt12851524",
+    "name": "Only Murders in the Building",
+    "year": "2021– "
+  },
+  {
+    "id": "tt13696452",
+    "name": "Money Heist: Korea - Joint Economic Area",
+    "year": "2022– "
+  },
+  {
+    "id": "tt0364845",
+    "name": "NCIS",
+    "year": "2003– "
+  },
+  {
+    "id": "tt5113044",
+    "name": "Minions: The Rise of Gru",
+    "year": "2022"
+  },
+  {
+    "id": "tt11905720",
+    "name": "She",
+    "year": "2020– "
+  },
+  {
+    "id": "tt14192504",
+    "name": "We Own This City",
+    "year": "2022"
+  },
+  {
+    "id": "tt12005828",
+    "name": "You Don't Know Me",
+    "year": "2021– "
+  },
+  {
+    "id": "tt0203259",
+    "name": "Law & Order: Special Victims Unit",
+    "year": "1999– "
+  },
+  {
+    "id": "tt0306414",
+    "name": "The Wire",
+    "year": "2002–2008"
+  },
+  {
+    "id": "tt9055008",
+    "name": "Evil",
+    "year": "2019– "
+  },
+  {
+    "id": "tt7657566",
+    "name": "Death on the Nile",
+    "year": "2022"
+  },
+  {
+    "id": "tt2741602",
+    "name": "The Blacklist",
+    "year": "2013– "
+  },
+  {
+    "id": "tt4052886",
+    "name": "Lucifer",
+    "year": "2016–2021"
+  },
+  {
+    "id": "tt2701582",
+    "name": "Endeavour",
+    "year": "2012–2021"
+  },
+  {
+    "id": "tt8115900",
+    "name": "The Bad Guys",
+    "year": "2022"
+  },
+  {
+    "id": "tt10809742",
+    "name": "Collision",
+    "year": "2022"
+  },
+  {
+    "id": "tt0071562",
+    "name": "The Godfather Part II",
+    "year": "1974"
+  },
+  {
+    "id": "tt2356777",
+    "name": "True Detective",
+    "year": "2014–2019"
+  },
+  {
+    "id": "tt7587890",
+    "name": "The Rookie",
+    "year": "2018– "
+  },
+  {
+    "id": "tt4998632",
+    "name": "Ambulance",
+    "year": "2022"
+  },
+  {
+    "id": "tt0118401",
+    "name": "Midsomer Murders",
+    "year": "1997– "
+  },
+  {
+    "id": "tt2467372",
+    "name": "Brooklyn Nine-Nine",
+    "year": "2013–2021"
+  },
+  {
+    "id": "tt5715524",
+    "name": "Mayans M.C.",
+    "year": "2018– "
+  },
+  {
+    "id": "tt14168162",
+    "name": "Bosch: Legacy",
+    "year": "2022– "
+  },
+  {
+    "id": "tt11214590",
+    "name": "House of Gucci",
+    "year": "2021"
+  },
+  {
+    "id": "tt1219024",
+    "name": "Castle",
+    "year": "2009–2016"
+  },
+  {
+    "id": "tt11196036",
+    "name": "The Card Counter",
+    "year": "2021"
+  },
+  {
+    "id": "tt13729648",
+    "name": "Candy",
+    "year": "2022"
+  },
+  {
+    "id": "tt2802850",
+    "name": "Fargo",
+    "year": "2014– "
+  },
+  {
+    "id": "tt20560404",
+    "name": "Keep Sweet: Pray and Obey",
+    "year": "2022"
+  },
+  {
+    "id": "tt3502248",
+    "name": "Bosch",
+    "year": "2014–2021"
+  },
+  {
+    "id": "tt10577736",
+    "name": "Tehran",
+    "year": "2020– "
+  },
+  {
+    "id": "tt0106179",
+    "name": "The X-Files",
+    "year": "1993–2018"
+  },
+  {
+    "id": "tt10720914",
+    "name": "McDonald & Dodds",
+    "year": "2020– "
+  },
+  {
+    "id": "tt5753856",
+    "name": "Dark",
+    "year": "2017–2020"
+  },
+  {
+    "id": "tt6468322",
+    "name": "Money Heist",
+    "year": "2017–2021"
+  },
+  {
+    "id": "tt9288030",
+    "name": "Reacher",
+    "year": "2022– "
+  },
+  {
+    "id": "tt2953250",
+    "name": "Shining Girls",
+    "year": "2022– "
+  },
+  {
+    "id": "tt9340526",
+    "name": "P-Valley",
+    "year": "2020– "
+  },
+  {
+    "id": "tt0071771",
+    "name": "The Longest Yard",
+    "year": "1974"
+  },
+  {
+    "id": "tt20873118",
+    "name": "Suzhal - The Vortex",
+    "year": "2022– "
+  },
+  {
+    "id": "tt0993846",
+    "name": "The Wolf of Wall Street",
+    "year": "2013"
+  },
+  {
+    "id": "tt5420376",
+    "name": "Riverdale",
+    "year": "2017–2022"
+  },
+  {
+    "id": "tt5503686",
+    "name": "Hustlers",
+    "year": "2019"
+  },
+  {
+    "id": "tt0098844",
+    "name": "Law & Order",
+    "year": "1990– "
+  },
+  {
+    "id": "tt1124373",
+    "name": "Sons of Anarchy",
+    "year": "2008–2014"
+  },
+  {
+    "id": "tt0460627",
+    "name": "Bones",
+    "year": "2005–2017"
+  },
+  {
+    "id": "tt2017109",
+    "name": "Banshee",
+    "year": "2013–2016"
+  },
+  {
+    "id": "tt14463542",
+    "name": "Intimacy",
+    "year": "2022"
+  },
+  {
+    "id": "tt20602042",
+    "name": "Web of Make Believe: Death, Lies and the Internet",
+    "year": "2022– "
+  },
+  {
+    "id": "tt1196946",
+    "name": "The Mentalist",
+    "year": "2008–2015"
+  },
+  {
+    "id": "tt2887954",
+    "name": "Tokyo Vice",
+    "year": "2022– "
+  },
+  {
+    "id": "tt0113277",
+    "name": "Heat",
+    "year": "1995"
+  },
+  {
+    "id": "tt1595859",
+    "name": "Blue Bloods",
+    "year": "2010– "
+  },
+  {
+    "id": "tt0468569",
+    "name": "The Dark Knight",
+    "year": "2008"
+  },
+  {
+    "id": "tt8367814",
+    "name": "The Gentlemen",
+    "year": "2019"
+  },
+  {
+    "id": "tt1475582",
+    "name": "Sherlock",
+    "year": "2010–2017"
+  },
+  {
+    "id": "tt1888075",
+    "name": "Death in Paradise",
+    "year": "2011– "
+  },
+  {
+    "id": "tt8946378",
+    "name": "Knives Out",
+    "year": "2019"
+  },
+  {
+    "id": "tt2805096",
+    "name": "Chicago P.D.",
+    "year": "2014– "
+  },
+  {
+    "id": "tt11646832",
+    "name": "The Outlaws",
+    "year": "2021– "
+  },
+  {
+    "id": "tt0110912",
+    "name": "Pulp Fiction",
+    "year": "1994"
+  },
+  {
+    "id": "tt14114802",
+    "name": "The Outfit",
+    "year": "2022"
+  },
+  {
+    "id": "tt0773262",
+    "name": "Dexter",
+    "year": "2006–2013"
+  },
+  {
+    "id": "tt11656220",
+    "name": "Midnight in the Switchgrass",
+    "year": "2021"
+  },
+  {
+    "id": "tt0144084",
+    "name": "American Psycho",
+    "year": "2000"
+  },
+  {
+    "id": "tt11794642",
+    "name": "Big Sky",
+    "year": "2020– "
+  },
+  {
+    "id": "tt5537002",
+    "name": "Killers of the Flower Moon",
+    "year": "2022"
+  },
+  {
+    "id": "tt4158110",
+    "name": "Mr. Robot",
+    "year": "2015–2019"
+  },
+  {
+    "id": "tt0099685",
+    "name": "Goodfellas",
+    "year": "1990"
+  },
+  {
+    "id": "tt14479480",
+    "name": "Redemption",
+    "year": "2022– "
+  },
+  {
+    "id": "tt7335184",
+    "name": "You",
+    "year": "2018– "
+  },
+  {
+    "id": "tt2372162",
+    "name": "Orange Is the New Black",
+    "year": "2013–2019"
+  },
+  {
+    "id": "tt11006642",
+    "name": "Walker",
+    "year": "2021– "
+  },
+  {
+    "id": "tt0110413",
+    "name": "Léon: The Professional",
+    "year": "1994"
+  },
+  {
+    "id": "tt7286456",
+    "name": "Joker",
+    "year": "2019"
+  },
+  {
+    "id": "tt0455275",
+    "name": "Prison Break",
+    "year": "2005–2017"
+  },
+  {
+    "id": "tt7740496",
+    "name": "Nightmare Alley",
+    "year": "2021"
+  },
+  {
+    "id": "tt0407887",
+    "name": "The Departed",
+    "year": "2006"
+  },
+  {
+    "id": "tt13146488",
+    "name": "Peacemaker",
+    "year": "2022– "
+  },
+  {
+    "id": "tt2278388",
+    "name": "The Grand Budapest Hotel",
+    "year": "2014"
+  },
+  {
+    "id": "tt11083552",
+    "name": "Wrath of Man",
+    "year": "2021"
+  },
+  {
+    "id": "tt5290382",
+    "name": "Mindhunter",
+    "year": "2017–2019"
+  },
+  {
+    "id": "tt0114369",
+    "name": "Se7en",
+    "year": "1995"
+  },
+  {
+    "id": "tt10293938",
+    "name": "Outer Banks",
+    "year": "2020– "
+  },
+  {
+    "id": "tt9170236",
+    "name": "Pieces of Her",
+    "year": "2022– "
+  },
+  {
+    "id": "tt0050051",
+    "name": "Perry Mason",
+    "year": "1957–1966"
+  },
+  {
+    "id": "tt1600194",
+    "name": "Hawaii Five-0",
+    "year": "2010–2020"
+  },
+  {
+    "id": "tt11394332",
+    "name": "Spree",
+    "year": "2020"
+  },
+  {
+    "id": "tt3322312",
+    "name": "Daredevil",
+    "year": "2015–2018"
+  },
+  {
+    "id": "tt6111130",
+    "name": "S.W.A.T.",
+    "year": "2017– "
+  },
+  {
+    "id": "tt0115355",
+    "name": "Silent Witness",
+    "year": "1996– "
+  },
+  {
+    "id": "tt7888964",
+    "name": "Nobody",
+    "year": "2021"
+  },
+  {
+    "id": "tt0247082",
+    "name": "CSI: Crime Scene Investigation",
+    "year": "2000–2015"
+  },
+  {
+    "id": "tt6048596",
+    "name": "The Sinner",
+    "year": "2017–2021"
+  },
+  {
+    "id": "tt0075314",
+    "name": "Taxi Driver",
+    "year": "1976"
+  },
+  {
+    "id": "tt2193021",
+    "name": "Arrow",
+    "year": "2012–2020"
+  },
+  {
+    "id": "tt5727208",
+    "name": "Uncut Gems",
+    "year": "2019"
+  },
+  {
+    "id": "tt1489428",
+    "name": "Justified",
+    "year": "2010–2015"
+  },
+  {
+    "id": "tt0491738",
+    "name": "Psych",
+    "year": "2006–2014"
+  },
+  {
+    "id": "tt0086765",
+    "name": "Murder, She Wrote",
+    "year": "1984–1996"
+  },
+  {
+    "id": "tt0120689",
+    "name": "The Green Mile",
+    "year": "1999"
+  },
+  {
+    "id": "tt1189340",
+    "name": "The Lincoln Lawyer",
+    "year": "2011"
+  },
+  {
+    "id": "tt1043813",
+    "name": "Titans",
+    "year": "2018– "
+  },
+  {
+    "id": "tt1796960",
+    "name": "Homeland",
+    "year": "2011–2020"
+  },
+  {
+    "id": "tt1091909",
+    "name": "Murdoch Mysteries",
+    "year": "2008– "
+  },
+  {
+    "id": "tt10160804",
+    "name": "Hawkeye",
+    "year": "2021"
+  },
+  {
+    "id": "tt13479592",
+    "name": "Centaur",
+    "year": "2022"
+  },
+  {
+    "id": "tt3569230",
+    "name": "Legend",
+    "year": "2015"
+  },
+  {
+    "id": "tt2707408",
+    "name": "Narcos",
+    "year": "2015–2017"
+  },
+  {
+    "id": "tt1466074",
+    "name": "Columbo",
+    "year": "1971–2003"
+  },
+  {
+    "id": "tt3581652",
+    "name": "West Side Story",
+    "year": "2021"
+  },
+  {
+    "id": "tt0285331",
+    "name": "24",
+    "year": "2001–2010"
+  },
+  {
+    "id": "tt0102926",
+    "name": "The Silence of the Lambs",
+    "year": "1991"
+  },
+  {
+    "id": "tt6749318",
+    "name": "Speed Kills",
+    "year": "2018"
+  },
+  {
+    "id": "tt0099674",
+    "name": "The Godfather: Part III",
+    "year": "1990"
+  },
+  {
+    "id": "tt7134908",
+    "name": "Elite",
+    "year": "2018– "
+  },
+  {
+    "id": "tt0312172",
+    "name": "Monk",
+    "year": "2002–2009"
+  },
+  {
+    "id": "tt3205802",
+    "name": "How to Get Away with Murder",
+    "year": "2014–2020"
+  },
+  {
+    "id": "tt7491982",
+    "name": "FBI",
+    "year": "2018– "
+  },
+  {
+    "id": "tt0094525",
+    "name": "Poirot",
+    "year": "1989–2013"
+  },
+  {
+    "id": "tt7846844",
+    "name": "Enola Holmes",
+    "year": "2020"
+  },
+  {
+    "id": "tt5433138",
+    "name": "F9: The Fast Saga",
+    "year": "2021"
+  },
+  {
+    "id": "tt7040874",
+    "name": "A Simple Favor",
+    "year": "2018"
+  },
+  {
+    "id": "tt1392214",
+    "name": "Prisoners",
+    "year": "2013"
+  },
+  {
+    "id": "tt11899030",
+    "name": "The Responder",
+    "year": "2022– "
+  },
+  {
+    "id": "tt1378167",
+    "name": "NCIS: Los Angeles",
+    "year": "2009– "
+  },
+  {
+    "id": "tt0388644",
+    "name": "The Staircase",
+    "year": "2004–2018"
+  },
+  {
+    "id": "tt11712058",
+    "name": "Mayor of Kingstown",
+    "year": "2021– "
+  },
+  {
+    "id": "tt0979432",
+    "name": "Boardwalk Empire",
+    "year": "2010–2014"
+  },
+  {
+    "id": "tt11639300",
+    "name": "Grace",
+    "year": "2021– "
+  },
+  {
+    "id": "tt1830379",
+    "name": "Top Boy",
+    "year": "2011– "
+  },
+  {
+    "id": "tt3402236",
+    "name": "Murder on the Orient Express",
+    "year": "2017"
+  },
+  {
+    "id": "tt10696896",
+    "name": "Stillwater",
+    "year": "2021"
+  },
+  {
+    "id": "tt0086066",
+    "name": "The Outsiders",
+    "year": "1983"
+  },
+  {
+    "id": "tt1839578",
+    "name": "Person of Interest",
+    "year": "2011–2016"
+  },
+  {
+    "id": "tt2303687",
+    "name": "Line of Duty",
+    "year": "2012–2021"
+  },
+  {
+    "id": "tt0477348",
+    "name": "No Country for Old Men",
+    "year": "2007"
+  },
+  {
+    "id": "tt2788432",
+    "name": "American Crime Story",
+    "year": "2016– "
+  },
+  {
+    "id": "tt10155688",
+    "name": "Mare of Easttown",
+    "year": "2021"
+  },
+  {
+    "id": "tt20782578",
+    "name": "Mind Over Murder",
+    "year": "2022"
+  },
+  {
+    "id": "tt5675620",
+    "name": "The Punisher",
+    "year": "2017–2019"
+  },
+  {
+    "id": "tt1064899",
+    "name": "Queen of the South",
+    "year": "2016–2021"
+  },
+  {
+    "id": "tt1836037",
+    "name": "Longmire",
+    "year": "2012–2017"
+  },
+  {
+    "id": "tt0098936",
+    "name": "Twin Peaks",
+    "year": "1990–1991"
+  },
+  {
+    "id": "tt1551614",
+    "name": "Blowback",
+    "year": "2022"
+  },
+  {
+    "id": "tt2243973",
+    "name": "Hannibal",
+    "year": "2013–2015"
+  },
+  {
+    "id": "tt1442462",
+    "name": "The Good Wife",
+    "year": "2009–2016"
+  },
+  {
+    "id": "tt3749900",
+    "name": "Gotham",
+    "year": "2014–2019"
+  },
+  {
+    "id": "tt0096542",
+    "name": "Baywatch",
+    "year": "1989–2001"
+  },
+  {
+    "id": "tt3920596",
+    "name": "Big Little Lies",
+    "year": "2017–2019"
+  },
+  {
+    "id": "tt0086250",
+    "name": "Scarface",
+    "year": "1983"
+  },
+  {
+    "id": "tt3890160",
+    "name": "Baby Driver",
+    "year": "2017"
+  },
+  {
+    "id": "tt9054904",
+    "name": "Why Women Kill",
+    "year": "2019– "
+  },
+  {
+    "id": "tt16420408",
+    "name": "Mezarlik",
+    "year": "2022– "
+  },
+  {
+    "id": "tt2149175",
+    "name": "The Americans",
+    "year": "2013–2018"
+  },
+  {
+    "id": "tt13589004",
+    "name": "The Twelve",
+    "year": "2022– "
+  },
+  {
+    "id": "tt0087843",
+    "name": "Once Upon a Time in America",
+    "year": "1984"
+  },
+  {
+    "id": "tt0066921",
+    "name": "A Clockwork Orange",
+    "year": "1971"
+  },
+  {
+    "id": "tt0116743",
+    "name": "Kama Sutra: A Tale of Love",
+    "year": "1996"
+  },
+  {
+    "id": "tt0290673",
+    "name": "Irreversible",
+    "year": "2002"
+  },
+  {
+    "id": "tt2911666",
+    "name": "John Wick",
+    "year": "2014"
+  },
+  {
+    "id": "tt0081873",
+    "name": "Hill Street Blues",
+    "year": "1981–1987"
+  },
+  {
+    "id": "tt10016180",
+    "name": "The Little Things",
+    "year": "2021"
+  },
+  {
+    "id": "tt0050083",
+    "name": "12 Angry Men",
+    "year": "1957"
+  },
+  {
+    "id": "tt14164730",
+    "name": "Dexter: New Blood",
+    "year": "2021–2022"
+  },
+  {
+    "id": "tt0084967",
+    "name": "The A-Team",
+    "year": "1983–1987"
+  },
+  {
+    "id": "tt1302006",
+    "name": "The Irishman",
+    "year": "2019"
+  },
+  {
+    "id": "tt1469304",
+    "name": "Baywatch",
+    "year": "2017"
+  },
+  {
+    "id": "tt0118715",
+    "name": "The Big Lebowski",
+    "year": "1998"
+  },
+  {
+    "id": "tt1358522",
+    "name": "White Collar",
+    "year": "2009–2014"
+  },
+  {
+    "id": "tt10698680",
+    "name": "K.G.F: Chapter 2",
+    "year": "2022"
+  },
+  {
+    "id": "tt0896798",
+    "name": "Cleaner",
+    "year": "2007"
+  },
+  {
+    "id": "tt2191671",
+    "name": "Elementary",
+    "year": "2012–2019"
+  },
+  {
+    "id": "tt0328107",
+    "name": "Man on Fire",
+    "year": "2004"
+  },
+  {
+    "id": "tt1693592",
+    "name": "Vera",
+    "year": "2011– "
+  }
+]
