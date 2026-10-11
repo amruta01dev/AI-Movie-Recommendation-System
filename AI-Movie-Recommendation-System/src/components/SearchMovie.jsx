@@ -24,7 +24,7 @@ const SearchMovie = ({ setSearchMovieResult }) => {
         else{
           try {
             console.log("Executing Prompt : ");
-            const results = await getMovieMatches(query, movies);
+            const results = await getMovieMatches(query, searchData);
             console.log("Gemini Output:", results);
           } 
           catch (error) {
