@@ -33,7 +33,7 @@ export async function getMovieMatches(prompt, movies) {
   const response = await axios.post(GEMINI_URL, requestBody, {
     headers: {
       'Content-Type': 'application/json',
-      'X-goog-api-key': API_KEY // Exactly matching -H 'X-goog-api-key: ...' from curl
+      'X-goog-api-key': API_KEY 
     }
   });
 
