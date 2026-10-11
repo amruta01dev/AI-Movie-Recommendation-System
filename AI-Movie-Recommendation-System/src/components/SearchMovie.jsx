@@ -1,25 +1,36 @@
 import React, { useState } from "react";
 import moviesData from "../assets/data/sampleMovieData.json";
-
+import searchData from "../assets/data/sampleSearchData.json"
+import { getMovieMatches } from "../services/PromptExecutar";
 const SearchMovie = ({ setSearchMovieResult }) => {
   const [searchTerm, setSearchTerm] = useState("");
 
-  const handleChange = (e) => {
+  const handleChange = async (e) => {
     setSearchTerm(e.target.value);
     
   };
 
-  const handleKeyDown = (e) => {
+  const handleKeyDown = async (e) => {
     if (e.key === "Enter")
     {
         const value = e.target.value;
         setSearchTerm(value);
+
+        
         const query = searchTerm.trim().toLowerCase();
         if (!query) {
             setSearchMovieResult(moviesData);
         }
         else{
-            setSearchMovieResult([]);
+          try {
+            console.log("Executing Prompt : ");
+            const results = await getMovieMatches(query, movies);
+            console.log("Gemini Output:", results);
+          } 
+          catch (error) {
+            console.error("Error:", error);
+          }
+          setSearchMovieResult([]);
         }
     }
     return;
