@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from "react";
 import moviesData from "../assets/data/sampleMovieData.json";
 
-const MovieCards = () => {
-  const [movies, setMovies] = useState(moviesData);
+const MovieCards = ({searchMovieResult}) => {
+  const [movies, setMovies] = useState(searchMovieResult);
 
   useEffect(() => {
-      setMovies(moviesData);
-  }, []);
+      setMovies(searchMovieResult);
+  }, [searchMovieResult]);
 
   
   return (

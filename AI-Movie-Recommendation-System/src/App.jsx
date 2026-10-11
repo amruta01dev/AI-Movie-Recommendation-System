@@ -7,12 +7,12 @@ import SearchMovie from './components/SearchMovie'
 import MovieCards from './components/MovieCards'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [searchMovieResult, setSearchMovieResult] = useState([]);
 
   return (
     <>
-    <SearchMovie></SearchMovie>
-    <MovieCards></MovieCards>
+    <SearchMovie setSearchMovieResult={setSearchMovieResult}></SearchMovie>
+    <MovieCards searchMovieResult = {searchMovieResult}></MovieCards>
     </>
   )
 }
